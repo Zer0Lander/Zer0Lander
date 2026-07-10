@@ -29,7 +29,7 @@ Robotics & automation engineer with hands-on experience across the full stack - 
 
 ### Tech Stack
 
-** Robotics & Autonomous Navigation**
+**Robotics & Autonomous Navigation**
 
 ![ROS2](https://img.shields.io/badge/ROS_2-22314E?style=flat&logo=ros&logoColor=white)
 ![MoveIt2](https://img.shields.io/badge/MoveIt_2-0A7BBB?style=flat)
@@ -44,7 +44,7 @@ Robotics & automation engineer with hands-on experience across the full stack - 
 ![UR5](https://img.shields.io/badge/UR5-2C3E50?style=flat)
 ![ArUco](https://img.shields.io/badge/ArUco-455A64?style=flat)
 
-** Perception, ML & Computer Vision** &nbsp;<sub><i> - basics, actively learning & improving</i></sub>
+**Perception, ML & Computer Vision** &nbsp;<sub><i> - basics, actively learning & improving</i></sub>
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
@@ -57,7 +57,7 @@ Robotics & automation engineer with hands-on experience across the full stack - 
 ![LeRobot](https://img.shields.io/badge/🤗_LeRobot-FFD21E?style=flat)
 ![ACT](https://img.shields.io/badge/Imitation_Learning_(ACT)-6A1B9A?style=flat)
 
-** Embedded Systems & Electronics**
+**Embedded Systems & Electronics**
 
 ![Altium](https://img.shields.io/badge/Altium-A5915F?style=flat&logo=altiumdesigner&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white)
@@ -71,7 +71,7 @@ Robotics & automation engineer with hands-on experience across the full stack - 
 ![LoRa](https://img.shields.io/badge/LoRa_Telemetry-0088CC?style=flat)
 ![Festo](https://img.shields.io/badge/Pneumatics_(Festo)-0091DC?style=flat)
 
-**💻 Programming Languages**
+**Programming Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
