@@ -19,11 +19,12 @@
 
 ### About me
 
-Robotics & automation engineer with hands-on experience across the full stack - from **PLC / industrial automation** to **LiDAR-inertial SLAM** and **autonomous mobile robots**. 
+I'm a Robotics & Embedded Systems Engineer. I like building systems that actually deploy in the field, bridging the gap between low-level hardware constraints and high-level autonomy software.
 
-- 🔭 **Now:** LiDAR-inertial localization of a forklift fleet in a ~520×670 m warehouse
-- 🌱 **Building:** UR5 pick-and-place & palletizing pipeline (ROS2, MoveIt2) · LeKiwi mobile robot R&D platform
-- 🏆 **3rd / 25** - AMD Open Robotics Hackathon Paris 2025 (VLM-guided manipulation, LeRobot)
+- **Previously Deployed:** LiDAR-inertial localization for a forklift fleet across a ~520 × 670 m indoor–outdoor warehouse environment.
+- **Currently Developing:** Autonomous Unitree Go2 quadruped for airport biodiversity monitoring, focusing on navigation and perception.
+- **Personal R&D:** Offline & Online MOS · LeKiwi mobile robot platform · Exploring VLMs & VLAs.
+- **Hackathon: 3rd / 25 teams** - AMD Open Robotics Hackathon Paris 2025 (Robotic Dental Assistant)
 
 ---
 
