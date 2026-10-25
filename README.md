@@ -22,7 +22,7 @@
 I'm a Robotics & Embedded Systems Engineer. I like building systems that actually deploy in the field, bridging the gap between low-level hardware constraints and high-level autonomy software.
 
 - **Previously Deployed:** LiDAR-inertial localization for a forklift fleet across a ~520 × 670 m indoor–outdoor warehouse environment.
-- **Currently Developing:** Autonomous Unitree Go2 quadruped for airport biodiversity monitoring, focusing on navigation and perception.
+- **Currently Developing:** Autonomous Unitree Go2 robot for airport biodiversity monitoring, focusing on navigation and perception.
 - **Personal R&D:** Offline & Online MOS · LeKiwi mobile robot platform · Exploring VLMs & VLAs.
 - **Hackathon: 3rd / 25 teams** - AMD Open Robotics Hackathon Paris 2025 (Robotic Dental Assistant)
 
